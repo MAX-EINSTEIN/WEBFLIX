@@ -37,6 +37,14 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'core.apps.catalogue',
+    'core.apps.captions',
+    'core.apps.quotes',
+    'core.apps.catalogue.items.videos',
+    'core.apps.catalogue.items.categories',
+    'core.apps.catalogue.items.tags',
+    'core.apps.catalogue.items.ratings',
+    'core.apps.catalogue.items.playlists',
 ]
 
 MIDDLEWARE = [

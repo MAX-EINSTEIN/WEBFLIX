@@ -1,0 +1,23 @@
+- Catalogue
+    - Movies
+    - TV Shows
+    - Playlists (List of Movies or TV Shows)
+    - Seasons (List of TV Show episodes)
+- Categories
+    - Action, Comedy, Thriller, Mystery, Sci-Fi
+- Tags
+    - RomCom, Superpowers, Live Studio Audience, Animation
+- Search
+    - Title
+    - Descriptions
+    - Categories
+    - Tags
+- User Ratings
+    - Standard 1 to 5 star rating system
+    - Recommendation system based on the ratings
+- Trailers
+    - Use Youtube to play trailers for all TV Shows and Movies
+- Quotes
+    - Get a list of all famous quotes from a Movie / TV Show
+- Subtitles
+    - Search for a movie even if you only remember few lines from it
