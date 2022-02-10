@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class RatingsConfig(AppConfig):
+class CategoriesConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'core.apps.catalogue.items.ratings'
+    name = 'webflix.apps.catalogue.items.categories'

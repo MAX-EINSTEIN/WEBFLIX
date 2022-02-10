@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class CatalogueConfig(AppConfig):
+class PlaylistsConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'core.apps.catalogue'
+    name = 'webflix.apps.catalogue.items.playlists'

@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class CategoriesConfig(AppConfig):
+class TagsConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'core.apps.catalogue.items.categories'
+    name = 'webflix.apps.catalogue.items.tags'
